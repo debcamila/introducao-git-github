@@ -5,6 +5,7 @@ https://speakerdeck.com/debcamila/introducao-ao-git-e-github
 
 ## Links úteis:
 - Comunidades de tecnologia de PE 
+
 github.com/ReciHub/Hub-de-Comunidades
 
 - UNICAS - Mulheres na Ciência e Tecnologia
