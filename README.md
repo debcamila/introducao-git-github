@@ -1,13 +1,39 @@
 # Introdução ao Git e GitHub
 
+## Link da apresentação:
+https://speakerdeck.com/debcamila/introducao-ao-git-e-github
 
+## Links úteis:
+- Comunidades de tecnologia de PE 
+github.com/ReciHub/Hub-de-Comunidades
 
+- UNICAS - Mulheres na Ciência e Tecnologia
+https://www.instagram.com/unicas.mct/
 
+- Eventos no GitHub
+https://github.blog/
 
+- GitHub Education
+https://education.github.com/
 
+## Links de instalação:
 
+- Git Bash (substituto para terminal no Windows):
+https://gitforwindows.org/
 
+- Git:
+https://git-scm.com/downloads
 
+- GitHub:
+https://github.com/
+
+## Alternativas ao GitHub:
+
+- Gitlab
+https://about.gitlab.com/
+
+- Bitbucket
+https://bitbucket.org/
 
 
 ## comandos úteis:
