@@ -3,6 +3,9 @@
 ## Link da apresentação:
 https://speakerdeck.com/debcamila/introducao-ao-git-e-github
 
+## link da apresentação gravada:
+https://drive.google.com/file/d/1AkKuIW2nGTLX1dWdvc4pTB9KRJLmLwRC/view
+
 ## Links úteis:
 - Comunidades de tecnologia de PE 
 https://github.com/ReciHub/Hub-de-Comunidades
